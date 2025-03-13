@@ -70,3 +70,14 @@ for (int j = 0; j < n; j++) {
     cout << endl;
     cout << endl;
 }
+
+int main (){
+
+    input();
+
+    bubbleSortArray();
+    display();
+
+    system("pause");
+    return 0;
+}
